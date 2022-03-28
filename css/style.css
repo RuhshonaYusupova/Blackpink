@@ -1,0 +1,220 @@
+.carousel-inner {
+  padding-bottom: 50px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+  opacity: 0.7;
+}
+
+.carousel-item h5 {
+  font-size: 60px;
+  color: deeppink;
+  font-weight: 900;
+}
+
+.carousel-item p {
+  font-size: 30px;
+  color: darkblue;
+  font-weight: 600;
+}
+
+.img-fluid {
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.lalisa {
+  background-image: url("../img/blackpink_2021.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.8;
+  padding-top: 50px;
+}
+
+.col-6 .img {
+  width: 100%;
+  height: 600px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+  padding: 20px 10px;
+}
+
+.p {
+  padding: 20px 10px;
+  font-size: 22px;
+  font-weight: 800;
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+}
+
+.border-blue {
+  border: 5px solid darkblue;
+}
+
+.jisoo {
+  background-image: url("../img/b10.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.8;
+}
+
+.rose {
+  background-image: url("../img/b4.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.8;
+}
+
+.jennie {
+  background-image: url("../img/b12.webp");
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.8;
+}
+
+.card1 {
+  background-image: url("../img/b10.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.card1 .col-3 {
+  background-color: pink;
+}
+
+.card1 .col-6 {
+  background-color: pink;
+  opacity: 0.3;
+}
+
+.p-pink {
+  padding: 20px 10px;
+  font-size: 20px;
+  font-weight: 800;
+  color: orangered;
+}
+
+.border-pink {
+  border: 3px solid deeppink;
+}
+
+.card2 {
+  background-image: url("../img/aba.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.card2 .col-6:nth-child(2) {
+  background-color: pink;
+}
+
+.members {
+  padding: 20px 0;
+}
+
+.members h1 {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.members .col-6 {
+  width: 50%;
+  height: 600px;
+  padding: 0 20px;
+}
+
+.members .col-6 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  border-radius: 50%;
+}
+
+.first {
+  background-image: url("../img/bg1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.9;
+}
+
+.second {
+  background-image: url("../img/bg2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.9;
+}
+
+p.about {
+  font-size: 22px;
+  font-weight: 700;
+  color: orangered;
+}
+
+.accordion-head {
+  background-image: url("../img/b12.webp");
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  padding-bottom: 100px;
+}
+
+.accordion-head .accordion-text {
+  font-size: 20px;
+  font-weight: 700;
+  color: yellow;
+  padding: 0 300px;
+}
+
+.accordion-item {
+  background-color: green;
+}
+
+.col {
+  padding: 50px 0;
+}
+
+.col .card {
+  margin: 0 10px;
+  text-align: center;
+  border-radius: 10%;
+  border: 2px solid blue;
+}
+
+.col .card img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+  border-radius: 10%;
+}
+
+footer {
+  padding: 20px 0;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+/*# sourceMappingURL=style.css.map */
